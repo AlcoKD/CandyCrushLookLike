@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AlcoKD/CandyCrushLookLike/static/css/main.1dd2de74.css",
+    "main.js": "/AlcoKD/CandyCrushLookLike/static/js/main.bb5d8c2f.js",
+    "static/media/gentlemanFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/gentlemanFace.c811815a727e02210a5e.jpg",
+    "static/media/grrFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/grrFace.cf7e28088c7a065c2964.jpg",
+    "static/media/cryFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/cryFace.d0b211ec2c0152a30779.jpg",
+    "static/media/trollFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/trollFace.fefb6d701747b8fc9afa.jpg",
+    "static/media/fapFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/fapFace.6c89b0e47666c93a5a9e.jpg",
+    "static/media/fanchiuloFace.jpg": "/AlcoKD/CandyCrushLookLike/static/media/fanchiuloFace.bcbc8df8ae82e8d343aa.jpg",
+    "index.html": "/AlcoKD/CandyCrushLookLike/index.html",
+    "main.1dd2de74.css.map": "/AlcoKD/CandyCrushLookLike/static/css/main.1dd2de74.css.map",
+    "main.bb5d8c2f.js.map": "/AlcoKD/CandyCrushLookLike/static/js/main.bb5d8c2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd2de74.css",
+    "static/js/main.bb5d8c2f.js"
+  ]
+}
